@@ -26,13 +26,16 @@ This platform helps users share, browse, and reuse coupons easily, creating valu
 ---
 
 ## 📂 Project Structure
+
 Coupon_Selling_System/
-│── Coupon_Selling_System/
-│── backend/
-│── templates/
-│── static/
-│── manage.py
-│── README.md
+│
+├── Coupon_Selling_System/
+│   ├── backend/
+│   ├── templates/
+│   ├── static/
+│
+├── manage.py
+└── README.md
 
 
 ---
